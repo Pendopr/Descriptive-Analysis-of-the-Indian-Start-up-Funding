@@ -33,7 +33,7 @@ from matplotlib import pyplot as plt
 ![pg001](./Images/pg001.png)
 
 2. How much funding do the top stages provide.
-![pg002](./Images/pg002.png)
+![pg002b](./Images/pg002b.png)
 
 3. How much funding is distributed across the years.
 ![pg004](./Images/pg004.png)
